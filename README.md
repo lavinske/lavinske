@@ -15,8 +15,8 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lavinske&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Lavinske's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavinske&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=lavinske&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Lavinske's GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=lavinske&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
@@ -42,7 +42,6 @@
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="30" alt="CSS3" />
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" width="30" alt="SASS" />
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" width="30" alt="Bootstrap" />
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350ef8e3517d3494d/topics/react/react.png" width="30" alt="React" />
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" width="30" alt="JQuery" />
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pwa/pwa.png" width="30" alt="PWA" />
   </p>
@@ -53,7 +52,6 @@
   <br>
   <p>
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="30" alt="Node.js" />
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e823ers/topics/kubernetes/kubernetes.png" width="30" alt="Kubernetes" />
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" width="30" alt="Windows Server" />
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" width="30" alt="Arduino" />
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="30" alt="Git" />
