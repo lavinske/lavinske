@@ -5,9 +5,7 @@
   ### 💻 Full-Stack Developer & Tech Enthusiast
   
   [![Website](https://img.shields.io/badge/Website-lav.my.id-blue?style=flat-square&logo=google-chrome)](https://lav.my.id)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://tell.my.id/linkedin)
-  [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram)](https://tell.my.id/ig)
-  [![Telegram](https://img.shields.io/badge/Telegram-Chat-26A5E4?style=flat-square&logo=telegram)](https://t.me/lavinske)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/lavinske)
 
 </div>
 
