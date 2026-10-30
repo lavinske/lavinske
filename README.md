@@ -2,7 +2,7 @@
 
   # ¡Hola! 👋 Welcome to my GitHub profile!
 
-  ### 💻 Software Engineer & Systems Explorer
+  ### 💻 Systems Administrator & Software Engineer
 
   [![Website](https://img.shields.io/badge/Website-lav.my.id-0066AE?style=flat-square&logo=google-chrome&logoColor=white)](https://lav.my.id)
   [![Blog](https://img.shields.io/badge/Blog-Articles-222222?style=flat-square&logo=ghost&logoColor=white)](https://lav.my.id/blog/)
@@ -11,7 +11,7 @@
   [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](https://go.tell.my.id/mail)
 
   <p>
-    Software engineer and technology practitioner focused on software engineering, distributed systems architecture, enterprise infrastructure automation, and low-power embedded Linux / homelab environments.
+    Systems Administrator at Indonesia's largest private bank, managing enterprise infrastructure, fleet automation, and mission-critical systems. Software developer, technology enthusiast, infrastructure architect, and homelab builder.
   </p>
 
 </div>
