@@ -1,17 +1,25 @@
 <div align="center">
-  
+
   # ¡Hola! 👋 Welcome to my GitHub profile!
-  
-  ### 💻 Full-Stack Developer & Tech Enthusiast
-  
-  [![Website](https://img.shields.io/badge/Website-lav.my.id-blue?style=flat-square&logo=google-chrome)](https://lav.my.id)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://go.tell.my.id/linkedin)
+
+  ### 💻 Software Engineer & Systems Explorer
+
+  [![Website](https://img.shields.io/badge/Website-lav.my.id-0066AE?style=flat-square&logo=google-chrome&logoColor=white)](https://lav.my.id)
+  [![Blog](https://img.shields.io/badge/Blog-Articles-222222?style=flat-square&logo=ghost&logoColor=white)](https://lav.my.id/blog/)
+  [![Directory](https://img.shields.io/badge/Directory-Links-0094D6?style=flat-square&logo=linktree&logoColor=white)](https://lav.my.id/link/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://go.tell.my.id/lin)
+  [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](https://go.tell.my.id/mail)
+
+  <p>
+    Software engineer and technology practitioner focused on software engineering, distributed systems architecture, enterprise infrastructure automation, and low-power embedded Linux / homelab environments.
+  </p>
 
 </div>
 
 ---
 
 ### 📊 GitHub Stats
+
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=lavinske&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Lavinske's GitHub Stats" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=lavinske&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
@@ -19,42 +27,55 @@
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🛠️ Tech Stack & Engineering Skills
 
-<details>
-  <summary><b>Languages & Core</b></summary>
-  <br>
-  <p>
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="30" alt="JavaScript" />
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="30" alt="Python" />
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" width="30" alt="C++" />
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" width="30" alt="SQL" />
-  </p>
-</details>
-
-<details>
-  <summary><b>Frontend Development</b></summary>
-  <br>
-  <p>
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="30" alt="HTML5" />
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="30" alt="CSS3" />
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" width="30" alt="SASS" />
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" width="30" alt="Bootstrap" />
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" width="30" alt="JQuery" />
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pwa/pwa.png" width="30" alt="PWA" />
-  </p>
-</details>
-
-<details>
-  <summary><b>Backend & Infrastructure</b></summary>
-  <br>
-  <p>
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="30" alt="Node.js" />
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" width="30" alt="Windows Server" />
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" width="30" alt="Arduino" />
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="30" alt="Git" />
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" width="30" alt="Terminal" />
-  </p>
-</details>
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h4>Languages & Runtimes</h4>
+      <ul>
+        <li><b>TypeScript & JavaScript</b>: Node.js (20/24 LTS), Modern ESM, Bun</li>
+        <li><b>Python</b>: System automation, IoT telemetry, data processing</li>
+        <li><b>PowerShell (5.1 / 7) & Bash</b>: Enterprise automation, OS tooling</li>
+        <li><b>C# / .NET</b>: Enterprise application development</li>
+        <li><b>SQL</b>: Database design, query optimization</li>
+      </ul>
+      <h4>Web Engineering & Architecture</h4>
+      <ul>
+        <li><b>Frameworks</b>: Astro (Static Site Generation, Islands), Vite, React</li>
+        <li><b>Styling</b>: Dart Sass / SCSS, CSS Custom Properties, BEM</li>
+        <li><b>Standards</b>: Schema.org JSON-LD, OpenGraph, Web Accessibility</li>
+        <li><b>Performance</b>: Zero-runtime static architecture, sub-second TTFB</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <h4>Enterprise Systems & Infrastructure</h4>
+      <ul>
+        <li><b>Linux</b>: Ubuntu, Debian, Armbian, RHEL</li>
+        <li><b>Windows Ecosystem</b>: Windows Server, AD DS, AD CS (PKI), GPO, SCCM</li>
+        <li><b>Virtualization & Containers</b>: Docker, Podman, Proxmox, VMware ESXi</li>
+        <li><b>Identity & Access</b>: LDAP, LDAPS, Kerberos, IAM integrations</li>
+      </ul>
+      <h4>Homelab, Networking & IoT</h4>
+      <ul>
+        <li><b>Networking</b>: OpenWrt, VLANs, Out-of-Band (OOB) mgmt, WireGuard, Reverse SSH</li>
+        <li><b>Embedded & SBCs</b>: Armbian on ARM TV boxes, Raspberry Pi, DKMS driver builds</li>
+        <li><b>IoT Telemetry</b>: BLE passive scanning (LYWSD03MMC), Telegram bot alerting</li>
+        <li><b>Remote Access</b>: Headless Apache Guacamole HTML5 jumpbox gateway</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
+
+### 🚀 Highlights & Recent Explorations
+
+- **[lav.my.id](https://github.com/lavinske/lav.my.id)**: Personal website & technical journal running on Astro 7 + Vite + Node 24, decoupled from private Markdown content via secure Git Submodules and Netlify Deploy Keys.
+- **[Armbian Homelab Exploration](https://lav.my.id/repurpose-tv-box-armbian/)**: Repurposing discarded ARM Android TV boxes into 24/7 low-power micro-servers with out-of-tree AIC8800 wireless drivers, Guacamole jumpbox, and BLE environmental monitoring.
+
+---
+
+<div align="center">
+  <sub>Crafted with focus on clean architecture, reliable systems, and efficient code.</sub>
+</div>
